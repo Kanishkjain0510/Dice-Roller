@@ -15,7 +15,7 @@ A simple dice roller application built with Python and Tkinter. It displays two 
 - Image files: 'logo.png', 'one.png', 'two.png', 'three.png', 'four.png', 'five.png', 'six.png'
 
 ## Setup
-1. Clone the repository: 'git clone https://github.com/your-username/dice-roller.git'
+1. Clone the repository: 'https://github.com/Kanishkjain0510/Dice-Roller.git'
 2. Install dependencies: 'pip install Pillow'
 3. Ensure all image files ('logo.png', 'one.png', etc.) are in the project folder.
 4. Run the app: 'python dice_roller.py'
