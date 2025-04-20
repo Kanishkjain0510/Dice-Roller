@@ -7,7 +7,7 @@ window.geometry("500x500")
 window.title("Dice Roller")
 window.config(bg="white")
 
-jklu = "jklu.png"
+jklu = "logo.png"
 jklu_image = ImageTk.PhotoImage(Image.open(jklu))
 jklu_label = tk.Label(window, image=jklu_image)
 jklu_label.image = jklu_image
